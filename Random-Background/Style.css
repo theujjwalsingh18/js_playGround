@@ -1,0 +1,20 @@
+* {
+  /* background-color: #212121; */
+  color: #060606;
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.container {
+    margin: 250px auto 100px;
+    width: 80%;
+    text-align: center;
+}
+
+button {
+  border-radius: 25px;
+  background-color: #67128e;
+  margin: 25px;
+  width: 102px;
+  border: 3px solid black;
+}
